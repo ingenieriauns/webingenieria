@@ -1,0 +1,9 @@
+*.pyc
+__ pycache __
+myvenv
+db.sqlite3
+/static
+.DS_Store
+.vscode
+env_prj_ingenieria
+front-end-sin-fusionar*
